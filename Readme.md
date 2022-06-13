@@ -4,8 +4,8 @@ This is the landing page of my 10 days [frontendmentor](http://frontendmentor.io
 
 | Day | Challenge Name | Duration |   |   |
 |:-----:| -------------- | -------- |---| ---|
-| 1 | Article Preview Component | 5h 35m | [Live](http://frmentor-practice.vercel.app/project1/index.html) | [Code](http://github.com/aykdgreat/frmentor-practice/tree/main/project1) |
-| 2 | 3 Column Preview Card | Nill | [Live](http://frmentor-practice.vercel.app/project2/index.html) | [Code](tree/main/project2) |
+| 1 | Article Preview Component | 5h 35m | [Live](http://frmentor-practice.vercel.app/project1/index.html) | [Code](./project1) |
+| 2 | 3 Column Preview Card | Nill | [Live](http://frmentor-practice.vercel.app/project2/index.html) | [Code](./project2) |
 | 3 | Fylo Dark Theme Landing Page | Nill | [Live](http://frmentor-practice.vercel.app/project3/index.html) | [Code](./project3) |
 
 <p style="text-align:center;">
