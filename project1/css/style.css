@@ -8,6 +8,7 @@ body {
   padding: 20px;
   line-height: 1.7;
   overflow: hidden;
+  font-family: "Manrope", sans-serif;
 }
 
 .container {
@@ -21,7 +22,7 @@ body {
 .card {
   background-color: #FFF;
   border-radius: 10px;
-  max-width: 300px;
+  max-width: 350px;
 }
 
 .card-img {
