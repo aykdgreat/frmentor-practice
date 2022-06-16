@@ -6,7 +6,8 @@ This is the landing page of my 10 days [frontendmentor](http://frontendmentor.io
 |:-----:| -------------- | -------- |---| ---|
 | 1 | Article Preview Component | 5h 35m | [Live](http://frmentor-practice.vercel.app/project1/index.html) | [Code](./project1) |
 | 2 | 3 Column Preview Card | 2h | [Live](http://frmentor-practice.vercel.app/project2/index.html) | [Code](./project2) |
-| 3 | Fylo Dark Theme Landing Page | Nill | [Live](http://frmentor-practice.vercel.app/project3/index.html) | [Code](./project3) |
+| 3 | Fylo Dark Theme Landing Page | 4h 35m | [Live](http://frmentor-practice.vercel.app/project3/index.html) | [Code](./project3) |
+| 4 | Loopstudios Landing Page | nill | [Live](http://frmentor-practice.vercel.app/project4/index.html) | [Code](./project4) |
 
 <p style="text-align:center;">
   Designed by AYKdgreat

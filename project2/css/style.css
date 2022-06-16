@@ -94,6 +94,7 @@ body {
   text-align: center;
   position: absolute;
   bottom: 15px;
+  font-family: "Lexend Deca", sans-serif;
 }
 
 .attribution a {
@@ -123,7 +124,7 @@ body {
     grid-template-columns: repeat(3, 290px);
   }
 
-  .card-btn {
+  .btn {
     margin-top: 30px;
   }
 }
